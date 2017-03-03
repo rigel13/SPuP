@@ -1,2 +1,3 @@
-# Statistical-Programming-with-Python
-Statistical Programming with Python
+# 통계프로그래밍
+
+   자료
